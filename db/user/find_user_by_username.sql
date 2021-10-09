@@ -1,0 +1,1 @@
+SELECT * FROM helo_users WHERE username = 'john123' AND password = 'test';
